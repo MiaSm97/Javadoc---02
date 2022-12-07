@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"exercise.javadoc","l":"ArithmeticOperators"},{"p":"exercise.javadoc","l":"Tester"}];updateSearchResults();
